@@ -19,7 +19,7 @@ The lecture notes will be posted here.
 
 # Assignments
 
-There will be weekly assignments that will be posted on the course webpage. The assignments will be due at the beginning of the class on the following week, preferably submitted via email. Please use LaTeX if you are typing them. 
+There will be weekly assignments that will be posted here. The assignments will be due at the beginning of the class on the following week, preferably submitted via email. Please use LaTeX if you are typing them. 
 
 
 # Grading
