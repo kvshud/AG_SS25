@@ -5,11 +5,16 @@
 This is the second part of a two part course on Algebraic Geometry. The aim of this course would be to cover an equivalent of Chapters III and IV of Hartshorne's Algebraic Geometry.
 There is no textbook for the course but here are a couple of books that you might find useful:
 
-1.  Algebraic Geometry, Robin Hartshorne ,Algebraic Geometry, Robin Hartshorne (Graduate Texts in Mathematics, No. 52, Springer-Verlag, 1977)
+1.  Algebraic Geometry, Robin Hartshorne (Graduate Texts in Mathematics, No. 52, Springer-Verlag, 1977)
 
 2.  Algebraic Geometry II, David Mumford and Tadao Oda, Texts and Readings in Mathematics, 10. Hindustan Book Agency, 2010.
 
 In addition, I recommend using the Stacks Project to look up definitions and proofs. The Stacks Project is a collaborative project that aims to provide a comprehensive reference for algebraic geometry. It is available at <https://stacks.math.columbia.edu/> .
+
+
+# Schedule
+
+The classes are at de Bartolo Hall 242 from 2-3:15 PM on Mondays and Wednesdays.
 
 
 # Lecture Notes
