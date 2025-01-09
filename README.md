@@ -12,9 +12,14 @@ There is no textbook for the course but here are a couple of books that you migh
 In addition, I recommend using the Stacks Project to look up definitions and proofs. The Stacks Project is a collaborative project that aims to provide a comprehensive reference for algebraic geometry. It is available at <https://stacks.math.columbia.edu/> .
 
 
+# Lecture Notes
+
+The lecture notes will be posted here.
+
+
 # Assignments
 
-There will be weekly assignments that will be posted on the course webpage. The assignments will be due at the beginning of the class on the following week, preferably submitted via email. Either scanned and submitted or LaTeXed. 
+There will be weekly assignments that will be posted on the course webpage. The assignments will be due at the beginning of the class on the following week, preferably submitted via email. Please use LaTeX if you are typing them. 
 
 
 # Grading
