@@ -29,7 +29,7 @@ The grading will be based on the assignments for those who want grades from this
 
 # Office Hours
 
-I will have office hours on Tuesday and Thursday from 10:00-11:00 AM. You can also email me to set up an appointment.
+I will have office hours on Tuesday and Thursday from 10:00-11:30 AM. You can also email me to set up an appointment.
 
 
 # Schedule
