@@ -42,9 +42,9 @@ I will have office hours on Tuesday and Thursday from 10:00-11:30 AM. You can al
 Here is a rough plan for the course, subject to change based on class feedback etc&#x2026; 
 
 1.  January 13: Introduction to the course and Category Theory-0.
-2.  January 15: Flatness
+2.  January 15: Flatness-I
 3.  January 20: No Class (MLK day)
-4.  January 22: Faithfully Flat descent
+4.  January 22: Flatness-II
 5.  January 27: Smoothness-I
 6.  January 29: Smoothness-II
 7.  February 3: Smoothness-III
