@@ -14,7 +14,7 @@ In addition, I recommend using the Stacks Project to look up definitions and pro
 
 # Schedule
 
-The classes are at de Bartolo Hall 242 from 2-3:15 PM on Mondays and Wednesdays.
+The classes are at Hayes-Healy 127 from 2-3:15 PM on Mondays and Wednesdays.
 
 
 # Lecture Notes
@@ -34,7 +34,7 @@ The grading will be based on the assignments for those who want grades from this
 
 # Office Hours
 
-I will have office hours on Tuesday and Thursday from 10:00-11:30 AM. You can also email me to set up an appointment.
+I will have office hours on Mondays and Tuesdays from 03:30-05:00 PM. You can also email me to set up an appointment.
 
 
 # Schedule
